@@ -5,6 +5,13 @@
       "title": "Call mom",
       "description": "Check in with family",
       "completed": false
+    },
+    {
+      "id": "da9a",
+      "title": "1",
+      "description": "1",
+      "completed": false
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
